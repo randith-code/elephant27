@@ -1,9 +1,7 @@
-import Image from "next/image"
-import backgrond from '../public/Background.png'
 
 export const Hero = () => {
     return(
-        <div className="bg-[url('/Background.png')] bg-cover bg-center h-75vh md:h-screen w-screen bg-darkBlue flex justify-center items-center">
+        <div className="bg-[url('../public/Background.png')] bg-cover bg-center h-75vh md:h-screen w-screen bg-darkBlue flex justify-center items-center">
            <section className="w-fit">
                 <span className="inline">
                     <h1 className=" z-10 text-fuchsia-50 font-bold text-5xl md:text-7xl">
