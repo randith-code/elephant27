@@ -20,7 +20,7 @@ export const Services = () => {
                             <h2 className="my-4 ml-4 text-lg lg:text-2xl xl:text-3xl">Tech Support</h2>
                            <span className="w-full grid place-items-center">
                                 <p className="text-sm w-5/6 m-6 lg:text-lg xl:text-xl">
-                                    Our experienced team provides reliable tech support to ensure smooth operations andoptimal performance of our clients' digital infrastructure. We proac8vely address technical challenges and implement robust solu8ons to enhance efficiency, security, and scalability.
+                                    Our experienced team provides reliable tech support to ensure smooth operations andoptimal performance of our clients&apos; digital infrastructure. We proac8vely address technical challenges and implement robust solu8ons to enhance efficiency, security, and scalability.
                                 </p>
                            </span>
                         </section>
@@ -58,7 +58,7 @@ export const Services = () => {
                             <h2 className="my-4 ml-4 text-lg lg:text-2xl xl:text-3xl">Digital Marketing</h2>
                            <span className="w-full grid place-items-center">
                                 <p className="text-sm w-5/6 m-6 lg:text-lg xl:text-xl">
-                                    We employ strategic digital marketinng techniques to elevate our clients' online presence anddrive results. Our services include search engine optimization (SEO), social media marketing,content marketing, and paid advertising campaigns tailored to each client's unique goals.
+                                    We employ strategic digital marketinng techniques to elevate our clients&apos; online presence anddrive results. Our services include search engine optimization (SEO), social media marketing,content marketing, and paid advertising campaigns tailored to each client&apos;s unique goals.
                                 </p>
                            </span>
                         </section>
@@ -77,7 +77,7 @@ export const Services = () => {
                             <h2 className="my-4 ml-4 text-lg lg:text-2xl xl:text-3xl">Mobile App Development</h2>
                            <span className="w-full grid place-items-center">
                                 <p className="text-sm w-5/6 m-6 lg:text-lg xl:text-xl">
-                                    We have a proven track record of developing innovative mobile applications that cater to our clients' specific requirements. Our mobile app solu8ons are designed to provide seam lessuser experiences and deliver value to both businesses and their customers.
+                                    We have a proven track record of developing innovative mobile applications that cater to our clients&apos; specific requirements. Our mobile app solu8ons are designed to provide seam lessuser experiences and deliver value to both businesses and their customers.
                                 </p>
                            </span>
                         </section>
@@ -96,7 +96,7 @@ export const Services = () => {
                             <h2 className="my-4 ml-4 text-lg lg:text-2xl xl:text-3xl">Social Media Marketing</h2>
                            <span className="w-full grid place-items-center">
                                 <p className="text-sm w-5/6 m-6 lg:text-lg xl:text-xl">
-                                    We harness the power of social media plaOorms to build brand awareness, engage with thetarget audience, and foster meaningful connections. Our social media strategies aredesigned to amplify brand messaging, increase reach, and drive traffic to clients' websites.
+                                    We harness the power of social media plaOorms to build brand awareness, engage with thetarget audience, and foster meaningful connections. Our social media strategies aredesigned to amplify brand messaging, increase reach, and drive traffic to clients&apos; websites.
                                 </p>
                            </span>
                         </section>
